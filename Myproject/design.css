@@ -1,0 +1,976 @@
+body{
+    background: url(Map\ Google\ Dosti\ SMS\ In\ Hindi\ urdu\ Marathi\ In\ English\ Wallpaper\ Images.jpg);
+    overflow-x:hidden ;
+    
+    
+}
+
+.first{
+
+    img{
+        height: 35pc;
+        border-radius: 30px;
+        float: inline-end;
+        transform: rotate(3deg);
+        margin-right: 50px; 
+        margin-top: 1pc;
+    }
+    margin-bottom: 40pc;
+    height: auto;
+
+    big{
+        font-family: cursive;
+        margin-left: 5pc;
+        font-size: 40px;
+    
+       
+    }
+    .p{
+        font-family: cursive;
+        font-size: 25px;
+        margin-left: 5pc;
+    }
+    
+}
+
+.second{
+
+    img{
+        height: 30pc;
+        border-radius: 30px;
+        float: inline-start;
+        transform: rotate(-3deg);
+        margin-left: 50px; 
+        margin-top: 1pc;
+        
+    }
+
+    margin-bottom: 150px;
+
+
+   
+    big{
+        font-family: cursive;
+        margin-right: 5pc;
+        font-size: 40px;
+    
+       
+    }
+    .p{
+        font-family: cursive;
+        font-size: 25px;
+        margin-right: 5pc;
+    }
+    
+}
+
+
+.third{
+
+   img{
+    height: 30pc;
+    border-radius: 30px;
+    float: inline-end;
+    transform: rotate(5deg);
+    margin-right: 50px; 
+    margin-top: 1pc;
+   }
+
+   margin-bottom: 150px;
+
+  
+   big{
+    font-family: cursive;
+    margin-left: 5pc;
+    font-size: 40px;
+
+   
+}
+.p{
+    font-family: cursive;
+    font-size: 25px;
+    margin-left: 5pc;
+}
+
+}
+
+
+
+.forth{
+
+    img{
+        height: 30pc;
+        border-radius: 30px;
+        float: inline-start;
+        transform: rotate(-5deg);
+        margin-left: 50px; 
+        margin-top: 1pc;
+    }
+
+    margin-bottom: 25pc;
+
+ 
+    big{
+        font-family: cursive;
+        margin-left: 5pc;
+        font-size: 40px;
+    
+       
+    }
+    .p{
+        font-family: cursive;
+        font-size: 25px;
+        margin-left: 5pc;
+    }
+
+}
+
+.language{
+    
+    img{
+
+        height: 30pc;
+        border-radius: 30px;
+        float: inline-end;
+        transform: rotate(2deg);
+        margin-right: 50px;
+    }
+
+    big{
+        font-family: cursive;
+        margin-right: 5pc;
+        font-size: 40px;
+    
+       
+    }
+    .p{
+        font-family: cursive;
+        font-size: 25px;
+        margin-right: 5pc;
+    }
+
+    margin-bottom: 30pc;
+}
+
+
+
+.column {
+    float: right;
+    width: 20.20%;
+    padding: 2px;
+    margin-right: 2pc;
+  }
+
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+    border-radius: 30px;
+  }
+
+  .col{
+
+    float: left;
+    width: 22.22%;
+    padding: 2px;
+    margin-left: 45%;
+  }
+  .col::after {
+    content: "";
+    clear: both;
+    display: table;
+    border-radius: 30px;
+  }
+
+  .row{
+
+    b{
+        font-family: cursive;
+    }
+  }
+
+  .end{
+
+    b{
+        text-align: center;
+        margin-top: 40pc;
+
+    }
+  }
+
+.end{
+    p{
+        font-family: cursive;
+        font-size: 20px;
+    }
+
+    h2{
+        font-family: cursive;
+        text-align: center;
+        margin-top: 80px;
+        font-size:40px;
+        margin-top: 100px;
+        
+    }
+}
+
+.kit {
+    margin-left: 280px;
+    width: 22.22%;
+    padding: 2px;
+    color: black;
+  }
+
+  .Link::after{
+    content: " ";
+  }
+
+
+
+
+
+  /* Responsive----------------------------------------------------------------------------------------------------- */
+
+  @media screen and (max-width : 768px)
+  {
+
+    .first{
+
+        
+    img{
+        height: 10pc;
+        border-radius: 8px;
+        transform: rotate(3deg); 
+        margin-right: 5pc;
+        margin-top: 5pc;
+    }
+
+    b{
+        font-family: cursive;
+        font-size: 20px;
+        margin-top: auto;
+        margin-right: 5pc;
+        margin-left: -2pc;
+
+    }
+
+    .p{
+        font-family: cursive;
+        font-size: 15px;
+        margin-left: 3pc;
+    }
+    Big{
+        font-size: 20px;
+    }
+
+    margin-bottom: 5pc;
+
+    }
+
+    .second{
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 4pc;
+        }
+        Big{
+            font-size: 20px;
+            margin-right: 2pc;
+        }
+        margin-top: -9pc;
+  }
+
+  .third{
+
+        
+    img{
+        height: 10pc;
+        border-radius: 8px;
+        transform: rotate(3deg); 
+        margin-right: 5pc;
+        margin-top: 5pc;
+    }
+
+    b{
+        font-family: cursive;
+        font-size: 20px;
+        margin-top: auto;
+        margin-right: 5pc;
+        margin-left: -2pc;
+
+    }
+
+    .p{
+        font-family: cursive;
+        font-size: 15px;
+        margin-left: 3pc;
+    }
+    Big{
+        font-size: 20px;
+    }
+
+    margin-top: -9pc;
+
+}
+
+.forth{
+    img{
+        height: 10pc;
+        border-radius: 8px;
+        transform: rotate(3deg); 
+        margin-right: 5pc;
+        margin-top: 5pc;
+    }
+
+    b{
+        font-family: cursive;
+        font-size: 20px;
+        margin-top: auto;
+        margin-right: 5pc;
+        margin-left: -5pc;
+
+    }
+
+    .p{
+        font-family: cursive;
+        font-size: 15px;
+        margin-left: 4pc;
+    }
+    Big{
+        font-size: 20px;
+    }
+
+    margin-top: -9pc;
+    margin-bottom: -5pc;
+}
+
+.language{
+
+        
+    img{
+        height: 10pc;
+        border-radius: 8px;
+        transform: rotate(3deg); 
+        margin-right: 5pc;
+        margin-top: 5pc;
+    }
+
+    b{
+        font-family: cursive;
+        font-size: 20px;
+        margin-top: auto;
+        margin-right: 5pc;
+        margin-left: 2pc;
+
+    }
+
+    .p{
+        font-family: cursive;
+        font-size: 15px;
+        margin-left: 3pc;
+    }
+    Big{
+        font-size: 20px;
+    }
+
+    margin-bottom: 15pc;
+
+}
+
+.row{
+
+    b{
+        font-size: 5px;
+    }
+}
+
+.column{
+
+    margin-right: 3pc;
+    width: 100px;
+
+}
+
+.kit{
+    height: 15px;
+    width: 10px;
+
+    margin-left: 6pc;
+}
+
+@media screen and (min-width : 600px)
+{
+
+    .first{
+
+        
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 5pc;
+    
+        }
+    
+        .second{
+            img{
+                height: 10pc;
+                border-radius: 8px;
+                transform: rotate(3deg); 
+                margin-right: 5pc;
+                margin-top: 5pc;
+            }
+            b{
+                font-family: cursive;
+                font-size: 20px;
+                margin-top: auto;
+                margin-right: 2pc;
+        
+            }
+        
+            .p{
+                font-family: cursive;
+                font-size: 15px;
+                margin-left: 4pc;
+            }
+            Big{
+                font-size: 20px;
+                margin-right: 2pc;
+            }
+            margin-top: -9pc;
+      }
+    
+      .third{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+    
+    }
+    
+    .forth{
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -5pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 4pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+        margin-bottom: -5pc;
+    }
+    
+    .language{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: 2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 15pc;
+    
+    }
+    
+    .row{
+    
+        b{
+            font-size: 5px;
+        }
+    }
+    
+    .column{
+    
+        margin-right: 3pc;
+        width: 100px;
+    
+    }
+    
+    .kit{
+        height: 15px;
+        width: 10px;
+    
+        margin-left: 6pc;
+    }
+    
+    
+}
+
+@media screen and (max-width : 601px)
+{
+
+    .first{
+
+        
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 5pc;
+    
+        }
+    
+        .second{
+            img{
+                height: 10pc;
+                border-radius: 8px;
+                transform: rotate(3deg); 
+                margin-right: 5pc;
+                margin-top: 5pc;
+            }
+            b{
+                font-family: cursive;
+                font-size: 20px;
+                margin-top: auto;
+                margin-right: 2pc;
+        
+            }
+        
+            .p{
+                font-family: cursive;
+                font-size: 15px;
+                margin-left: 4pc;
+            }
+            Big{
+                font-size: 20px;
+                margin-right: 2pc;
+            }
+            margin-top: -9pc;
+      }
+    
+      .third{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+    
+    }
+    
+    .forth{
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -5pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 4pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+        margin-bottom: -5pc;
+    }
+    
+    .language{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: 2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 15pc;
+    
+    }
+    
+    .row{
+    
+        b{
+            font-size: 5px;
+        }
+    }
+    
+    .column{
+    
+        margin-right: 3pc;
+        width: 100px;
+    
+    }
+    
+    .kit{
+        height: 15px;
+        width: 10px;
+    
+        margin-left: 6pc;
+    }
+    
+    
+}
+
+@media screen and (min-width : 480px)
+{
+
+    .first{
+
+        
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 5pc;
+    
+        }
+    
+        .second{
+            img{
+                height: 10pc;
+                border-radius: 8px;
+                transform: rotate(3deg); 
+                margin-right: 5pc;
+                margin-top: 5pc;
+            }
+            b{
+                font-family: cursive;
+                font-size: 20px;
+                margin-top: auto;
+                margin-right: 2pc;
+        
+            }
+        
+            .p{
+                font-family: cursive;
+                font-size: 15px;
+                margin-left: 4pc;
+            }
+            Big{
+                font-size: 20px;
+                margin-right: 2pc;
+            }
+            margin-top: -9pc;
+      }
+    
+      .third{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+    
+    }
+    
+    .forth{
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: -5pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 4pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-top: -9pc;
+        margin-bottom: -5pc;
+    }
+    
+    .language{
+    
+            
+        img{
+            height: 10pc;
+            border-radius: 8px;
+            transform: rotate(3deg); 
+            margin-right: 5pc;
+            margin-top: 5pc;
+        }
+    
+        b{
+            font-family: cursive;
+            font-size: 20px;
+            margin-top: auto;
+            margin-right: 5pc;
+            margin-left: 2pc;
+    
+        }
+    
+        .p{
+            font-family: cursive;
+            font-size: 15px;
+            margin-left: 3pc;
+        }
+        Big{
+            font-size: 20px;
+        }
+    
+        margin-bottom: 15pc;
+    
+    }
+    
+    .row{
+    
+        b{
+            font-size: 5px;
+        }
+    }
+    
+    .column{
+    
+        margin-right: 3pc;
+        width: 100px;
+    
+    }
+    
+    .kit{
+        height: 15px;
+        width: 10px;
+    
+        margin-left: 6pc;
+    }
+    
+    
+}
+
+}
+
+/* Responsive----------------------------------------------------------------------------------------------------- */
+
+
+  
